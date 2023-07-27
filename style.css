@@ -1,0 +1,19 @@
+.background {
+    border-radius: 600px;
+background: #F85559;
+width: 1920px;
+height: 120px;
+flex-shrink: 0;
+
+}
+/* <div class="hero min-h-screen" style="background-image: url(images/banner2.png);">
+            <div class="hero-overlay bg-opacity-60"></div>
+            <div class="hero-content text-center text-neutral-content">
+              <div class="max-w-md">
+                <h1 class="mb-5 text-5xl font-bold">Exotic tastes at your doorstep</h1>
+                <p class="mb-5">We supply highly quality organic products</p>
+                <button class="btn bg-orange-600;">Shop Now</button>
+              </div>
+            </div>
+          </div> */
+          /* class="card w-1440 bg-base-100 shadow-xl image-full"> */
